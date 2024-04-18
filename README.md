@@ -73,11 +73,3 @@ The workloads will upload all files in this repository to the CDN with the forma
 **_Example:_**
 - [https://cdn.skymavis.com/ronin/2020/erc1155/0x02286d77425ae3287335ff28b264109225ed6991/logo.png](https://cdn.skymavis.com/ronin/2020/erc1155/0x02286d77425ae3287335ff28b264109225ed6991/logo.png)
 - [https://cdn.skymavis.com/ronin/2020/erc1155/0x02286d77425ae3287335ff28b264109225ed6991/banner.png](https://cdn.skymavis.com/ronin/2020/erc1155/0x02286d77425ae3287335ff28b264109225ed6991/banner.png)
-
-## Integration status
-
-- [ ] Ronin App
-- [ ] Ronin Explorer
-- [ ] Ronin Website
-- [ ] Ronin Mobile Wallet
-- [ ] Ronin Extension Wallet
