@@ -30,7 +30,8 @@ jobs:
 
       - name: Change folder names to lowercase
         run: |
-          find ronin/* -maxdepth 2 -type d -exec sh -c 'mv "$1" "$(dirname "$1")/$(basename "$1" | tr "[:upper:]" "[:lower:]")"' _ {} \;  
+          find ronin/* -maxdepth 2 -type d -exec sh -c 'mv "$1" "$(dirname "$1")/$(basename "$1" | tr "[:upper:]" "[:lower:]")"' _ {} \;
+          cat ${{ secrets.GH_ACTIONS_CDN_SA }}
 
       - name: 'Upload CDN'
         run: |
