@@ -1,4 +1,7 @@
 # Ronin Assets
+[![Upload to CDN](https://github.com/ronin-chain/ronin-assets/actions/workflows/upload.yml/badge.svg)](https://github.com/ronin-chain/ronin-assets/actions/workflows/upload.yml)
+
+## Overview
 
 The Ronin Assets repository serves as a CMS for managing token assets on the Ronin blockchain, including the Saigon Testnet.
 The Ronin ecosystem will utilize token assets sourced from this repository.
