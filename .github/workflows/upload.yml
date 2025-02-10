@@ -36,4 +36,4 @@ jobs:
       - name: 'Upload CDN'
         run: |
           set -eo pipefail
-          gsutil -m rsync -d -c -r ronin gs://${{ vars.CDN_BUCKET_NAME }}/ronin
+          gsutil -m rsync -c -r ronin gs://${{ vars.CDN_BUCKET_NAME }}/ronin
