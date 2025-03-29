@@ -1,1 +1,0 @@
-please Accept AXORA Token
