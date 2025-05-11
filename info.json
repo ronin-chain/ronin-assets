@@ -1,0 +1,12 @@
+{
+  "name": "Riverstone",
+  "symbol": "STON",
+  "decimals": 18,
+  "description": "Riverstone (STON) is a community-driven token on the Ronin blockchain designed to help users learn smart contract fundamentals and develop skills in liquidity provision and staking through hands-on experience.",
+  "website": "",
+  "socials": {
+    "twitter": "https://x.com/riverstone_coin?s=21",
+    "discord": "https://discord.gg/YHv2BWjJdV",
+    "telegram": ""
+  }
+}
