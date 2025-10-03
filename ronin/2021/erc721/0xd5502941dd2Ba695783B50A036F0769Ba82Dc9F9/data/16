@@ -1,0 +1,17 @@
+{
+  "name": "Umbreon & Darkrai GX ",
+  "description": "",
+  "image": "https://cdn.roninchain.com/ronin/2021/erc1155/0xd5502941dd2ba695783b50a036f0769ba82dc9f9/16.jpg",
+  "attributes": [
+    {
+      "trait_type": "condition",
+      "value": "PSA 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "cert number",
+      "value": "117476788",
+      "display_type": "number"
+    }
+  ]
+}
