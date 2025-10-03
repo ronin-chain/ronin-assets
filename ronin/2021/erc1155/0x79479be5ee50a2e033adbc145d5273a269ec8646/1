@@ -1,0 +1,22 @@
+{
+  "name": "Raffle 1",
+  "description": "Raffle for testing",
+  "image": "https://cdn.roninchain.com/ronin/2021/erc1155/0x79479be5ee50a2e033adbc145d5273a269ec8646/1.png",
+  "attributes": [
+    {
+      "trait_type": "test",
+      "value": "1111111111",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "test 2",
+      "value": "22222222",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "test 3",
+      "value": "3333333",
+      "display_type": "string"
+    }
+  ]
+}
