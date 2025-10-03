@@ -1,0 +1,17 @@
+{
+  "name": "Nami Championship",
+  "description": "",
+  "image": "https://cdn.roninchain.com/ronin/2021/erc1155/0xd5502941dd2ba695783b50a036f0769ba82dc9f9/15.jpg",
+  "attributes": [
+    {
+      "trait_type": "condition",
+      "value": "PSA 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "cert number",
+      "value": "112009108",
+      "display_type": "number"
+    }
+  ]
+}

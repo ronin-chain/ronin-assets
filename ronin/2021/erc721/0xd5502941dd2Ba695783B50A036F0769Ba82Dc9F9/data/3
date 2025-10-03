@@ -1,0 +1,12 @@
+{
+  "name": "Bulbasaur",
+  "description": "",
+  "image": "https://cdn.roninchain.com/ronin/2021/erc1155/0xd5502941dd2ba695783b50a036f0769ba82dc9f9/3.jpg",
+  "attributes": [
+    {
+      "trait_type": "condition",
+      "value": "Near Mint",
+      "display_type": "string"
+    }
+  ]
+}
